@@ -1,13 +1,15 @@
-package com.example.demo;
+package com.omis.universitymanagementsystem;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class DemoApplication {
+public class UniversityManagementSystemApplication {
 
     public static void main(String[] args) {
-        SpringApplication.run(DemoApplication.class, args);
+        SpringApplication.run(UniversityManagementSystemApplication.class, args);
     }
 
 }
+
+
