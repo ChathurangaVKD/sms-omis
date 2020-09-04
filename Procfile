@@ -1,0 +1,1 @@
+web: java $JAVA_OPTS -cp target/university-management-system-0.0.1-SNAPSHOT.jar
